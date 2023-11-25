@@ -25,3 +25,28 @@
 // }
 
 
+
+// var num1 = +prompt("Enter a number 1" )
+// var num2 = +prompt("Enter a number 2" )
+// var operator = prompt("Enter a opreator" )
+
+// if (operator ==="+") {
+//     console.log(num1 + num2)
+// }
+// else if (operator ==="-") {
+//     console.log(num1 - num2)
+// }
+// else if (operator ==="*") {
+//     console.log(num1 * num2)
+// }
+// else if (operator ==="/") {
+//     console.log(num1 / num2)
+// }
+// else{
+//     console.log("Invalid operator")
+// }
+
+
+
+
+
