@@ -48,5 +48,24 @@
 
 
 
+// var language = prompt("Enter your language")
+
+// if (language === "javascript") {
+//     var city = prompt("Enter your city");
+//     if (city === "karachi") {
+//         var exp = +prompt("Enter your experince");
+//         if (exp >= 2) {
+//             console.log("Hired")
+//         } else {
+//             console.log("upgurad your experince")
+//         }
+//     } else {
+//         console.log("karachi aajao")
+//     }
+// } else {
+//     console.log("learn javascript")
+// }
+
+
 
 
