@@ -69,3 +69,64 @@
 
 
 
+// Chapter No. 14 - 16
+
+
+
+// Question No. 3
+
+// var students = ["Ali","Anwar","Tamim"]
+
+// console.log(students)
+
+
+// Question No. 4
+
+// var numbers = [113,234,890]
+
+// console.log(numbers)
+
+
+// Question No. 6
+
+// var mixed = ["Maaz",145,"Hammad",567]
+
+// console.log(mixed)
+
+
+// Question No. 7
+
+// console.log("Qualification:")
+
+// var availableEducations = ["SSC", "HSC", "BCS","BS", "BCOM", "MS", "M. Phil", "PhD"]
+
+// console.log(availableEducations)
+
+
+
+// Question No. 8
+
+// var students = ["Ali", "Maaz", "Usama"]
+
+// var numbers = [455,378,247]
+
+// console.log("Score of" + " " + students[0] + " " + "is" + " " + numbers[0] + "." + " " + "Percentage:" + " " + (numbers[0]/"500")*100 + "%")
+// console.log("Score of" + " " + students[1] + " " + "is" + " " + numbers[1] + "." + " " + "Percentage:" + " " + (numbers[1]/"500")*100 + "%")
+// console.log("Score of" + " " + students[2] + " " + "is" + " " + numbers[2] + "." + " " + "Percentage:" + " " + (numbers[2]/"500")*100 + "%")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
