@@ -80,6 +80,7 @@
 // console.log(students)
 
 
+
 // Question No. 4
 
 // var numbers = [113,234,890]
@@ -87,11 +88,20 @@
 // console.log(numbers)
 
 
+
+// Question No. 5
+
+// var arr = []
+// arr.push(true)
+// console.log(arr)
+
+
 // Question No. 6
 
 // var mixed = ["Maaz",145,"Hammad",567]
 
 // console.log(mixed)
+
 
 
 // Question No. 7
