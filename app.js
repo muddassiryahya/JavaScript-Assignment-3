@@ -125,6 +125,78 @@
 // console.log("Score of" + " " + students[2] + " " + "is" + " " + numbers[2] + "." + " " + "Percentage:" + " " + (numbers[2]/"500")*100 + "%")
 
 
+
+// Question No. 9
+
+// var colorNames = ["orange", "yellow", "pink"]
+// console.log(colorNames)
+
+// a
+
+// var selectedColor = prompt("Enter your first color")
+// console.log(selectedColor)
+// colorNames.unshift(selectedColor)
+// console.log(colorNames)
+
+// b
+
+// var selectedColor = prompt("Enter your last color")
+// console.log(selectedColor)
+// colorNames.push(selectedColor)
+// console.log(colorNames)
+
+// c
+
+// var addindTwoColor = colorNames.unshift("grey","brown")
+// console.log(addindTwoColor)
+// console.log(colorNames)
+
+// d
+
+// var deletFirstColor = colorNames.shift()
+// console.log(deletFirstColor)
+// console.log(colorNames)
+
+// e
+
+// var deletLastColor = colorNames.pop()
+// console.log(deletLastColor)
+// console.log(colorNames)
+
+// f
+
+// var position = +prompt("Enter the position")
+// var selectedColor = prompt("Enter the color")
+// var working = colorNames.splice(position , 0, selectedColor)
+// console.log(working)
+// console.log(colorNames)
+
+// g
+
+// var position = +prompt("Enter the position")
+// var countingOfNumber = prompt("How many colors you wants to deleted?")
+// var working = colorNames.splice(position , countingOfNumber)
+// console.log(working)
+// console.log(colorNames)
+
+
+
+
+// Question No. 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // var students = ["Ali", "Maaz", "Usama"]
 // var returnValue = students.pop()
 // console.log(returnValue)
