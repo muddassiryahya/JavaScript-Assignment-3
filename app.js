@@ -115,6 +115,82 @@
 // console.log("Score of" + " " + students[2] + " " + "is" + " " + numbers[2] + "." + " " + "Percentage:" + " " + (numbers[2]/"500")*100 + "%")
 
 
+// var students = ["Ali", "Maaz", "Usama"]
+// var returnValue = students.pop()
+// console.log(returnValue)
+// console.log(students)
+
+
+
+// var students = ["Ali", "Maaz", "Usama"]
+// var returnValue = students.push("Tamim","Muhammad","Hammad")
+// console.log(returnValue)
+// console.log(students)
+
+
+
+// var students = ["Ali", "Maaz", "Usama"]
+// var returnValue =  students.unshift("Tamim","Muhammad","Hammad")
+// console.log(returnValue)
+// console.log(students)
+
+
+// var students = ["Ali", "Maaz", "Usama"]
+// var returnValue = students.shift()
+// console.log(returnValue)
+// console.log(students)
+
+
+// var students = ["Ali", "Maaz", "Usama"]
+// var returnValue = students.splice(2,1,"Tamim","Hammad")
+// console.log(returnValue)
+// console.log(students)
+
+
+
+// var students = ["Ali", "Maaz", "Usama"]
+// var copyArr = students.slice(1,3)
+// console.log(copyArr)
+// console.log(students)
+
+
+
+// var students  = ["Ali", "Maaz", "Usama"]
+// var copyArr = students.slice(-2)
+// console.log(copyArr)
+// console.log(students)
+
+
+
+// var str = "Ali Ahmed"
+// var copy = str.slice(1,5)
+// console.log(copy)
+// console.log(str)
+
+
+// var str = "Ali Ahmed"
+// var copy = str.slice(-5)
+// console.log(copy)
+// console.log(str)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
