@@ -184,6 +184,31 @@
 
 // Question No. 10
 
+// var Scores = [345,123,890,567,345]
+// console.log("Scores of students : " + Scores)
+// Scores.sort()
+// console.log("Ordered Scores of students : " + Scores)
+
+
+
+// Question No. 11
+
+// var citiesList = ["Karachi", "Islambad", "Lahore", "Peshawar", "Quetta"]
+// console.log("Cities list : " + citiesList)
+// var copyArr = citiesList.slice(2,5)
+// console.log("Selected Cities list : " + copyArr)
+
+
+
+// Question No. 12
+
+// var example = ["This","is","my","cat"];
+
+
+
+
+
+
 
 
 
