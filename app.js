@@ -202,24 +202,79 @@
 
 // Question No. 12
 
-// var example = ["This","is","my","cat"];
+// var example = ["This", "is", "my","cat"]
+// console.log(example)
+// var answer = example.join(" ")
+// console.log(answer)
+
+
+// Question No. 13
+
+// var devices = ["keyboard","mouse","printer","monitor"]
+// document.write("Devices: <br>" + devices + "<br> <br>")
+// var returnValue = devices.shift()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("Out: <br>" + returnValue)
 
 
 
 
+// var returnValue = devices.shift()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
+
+// var returnValue = devices.shift()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
+
+// var returnValue = devices.shift()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
 
 
 
+// Question No. 14
+
+// var devices = ["keyboard","mouse","printer","monitor"]
+// document.write("Devices: <br>" + devices + "<br> <br>")
+// var returnValue = devices.pop()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
+
+
+// var returnValue = devices.pop()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
+
+
+// var returnValue = devices.pop()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
+
+
+// var returnValue = devices.pop()
+// console.log(returnValue)
+// console.log(devices)
+// document.write("<br> Out: <br>" + returnValue)
 
 
 
+// Question No. 15
+
+// var phoneManufacturers = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"]
+//  var returnValue = phoneManufacturers.join("  " +  "</br>")
+// document.write("<b>Dropdown List<b>: <br><br>" + returnValue)
 
 
 
-
-
-
-
+// Practice
 
 
 // var students = ["Ali", "Maaz", "Usama"]
